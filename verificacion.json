@@ -248,7 +248,7 @@
                                                                      " Cakoo " : {
         " mensaje " : " ! ip 2803:3b80:3010:0:31c5:77e7:7e0c:f689"
     },
-                                                                         " Gallego" : {
+                                                                         " Gallego " : {
         " mensaje " : " ! ip 178.32.189.219"
     },
                                                                   " Naku " : {
@@ -272,7 +272,34 @@
                                                                      " Coberico " : {
         " mensaje " : " ! ip 161.97.68.231"
     },
-                                                                         " Gallego" : {
+                                                                         " Giner " : {
+        " mensaje " : " ! ip 51.255.159.251"
+    },
+                                                                       " Gallego " : {
+        " mensaje " : " ! ip "
+    },
+                                                                  " Naku " : {
+        " mensaje " : " ! ip "
+    },
+                                                                         " Drip " : {
+        " mensaje " : " ! ip "
+    },
+                                                                   " Most " : {
+        " mensaje " : " ! ip "
+    },
+                                                                         " Manuel " : {
+        " mensaje " : " ! ip "
+    },
+                                                                     " Paco " : {
+        " mensaje " : " ! ip "
+    },
+                                                                         " Juli " : {
+        " mensaje " : " ! ip "
+    },
+                                                                     " Coberico " : {
+        " mensaje " : " ! ip "
+    },
+                                                                         " Giner " : {
         " mensaje " : " ! ip "
     },
 }
