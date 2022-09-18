@@ -333,7 +333,7 @@
         " mensaje " : " ! ip 5.39.15.199"
     },
                                                                  " Fas " : {
-        " mensaje " : " ! ip 104.247.114.93"
+        " mensaje " : " ! ip "
     },
                                                                          " GUFFY " : {
         " mensaje " : " ! ip 189.219.248.42"
@@ -353,8 +353,8 @@
                                                                          " Polete " : {
         " mensaje " : " ! ip 87.124.239.85"
     },
-                                                                 " Fas " : {
-        " mensaje " : " ! ip "
+                                                                 " Guille " : {
+        " mensaje " : " ! ip 193.23.127.161 "
     },
                                                                          " GUFFY " : {
         " mensaje " : " ! ip "
